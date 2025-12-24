@@ -9,7 +9,7 @@ public class Haru {
   
   @GetMapping("/")
   public String getMethodName() {
-      return "PRUEBA DE PRUEBA!!!";
+      return "MENSAJE DE PRUEBA!!!";
   }
   
 }
