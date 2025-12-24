@@ -2,7 +2,6 @@ package com.examen.crud.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.examen.crud.model.Rol;
 import com.examen.crud.model.Usuario;
 import java.util.List;
 
