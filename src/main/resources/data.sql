@@ -1,5 +1,5 @@
-INSERT INTO TROLE (id, nombre) VALUES (1, 'ADMIN');
-INSERT INTO TROLE (id, nombre) VALUES (2, 'USER');
+INSERT INTO TROLE (nombre) VALUES ('ADMIN');
+INSERT INTO TROLE (nombre) VALUES ('USER');
 
 INSERT INTO TUSUARIO (nombre, a_paterno, a_materno)
 VALUES ('Haru', 'Sánchez', 'Okumura');
